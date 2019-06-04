@@ -27,7 +27,7 @@ node server.js
 Running the test
 
 ```
-http://(host):(port)/sta
+http://[host]:[port]/sta_aggregator?url=[sta_observation_url]&timeinterval=[timeinterval]&aggtype=[aggregate type]
 ```
 
 ### API doc
