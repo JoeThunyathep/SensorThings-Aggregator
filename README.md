@@ -2,7 +2,7 @@
 
 ## What is SensorThings-Aggregator?
 
-It is a tool for aggregating time-series sensor observation data from SensorThings API observation
+It is a tool for aggregating time-series sensor observation data on the server-side from SensorThings API observation
 
 ### Prerequisites
 
@@ -29,6 +29,10 @@ Running the test
 ```
 http://(host):(port)/sta
 ```
+
+### API doc
+
+[http://thunyatheps.com/sta-agg-doc/](http://thunyatheps.com/sta-agg-doc/)
 
 ## Authors
 **(Joe) T. Santhanavanich <thunyathep.s@outlook.com>** 
