@@ -1,0 +1,25 @@
+{
+  "name": "sensorthings-aggregator",
+  "version": "1.0.0",
+  "description": "A tool for aggregator time-series data from SensorThings observations",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thunyathep/SensorThings-Aggregator.git"
+  },
+  "keywords": [
+    "SensorThings"
+  ],
+  "author": "Thunyathep Santhanavanich",
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thunyathep/SensorThings-Aggregator/issues"
+  },
+  "homepage": "https://github.com/Thunyathep/SensorThings-Aggregator#readme"
+}
