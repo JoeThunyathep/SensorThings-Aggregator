@@ -35,5 +35,6 @@ http://[host]:[port]/sta_aggregator?url=[sta_observation_url]&timeinterval=[time
 [http://thunyatheps.com/sta-agg-doc/](http://thunyatheps.com/sta-agg-doc/)
 
 ## Authors
-**(Joe) T. Santhanavanich <thunyathep.s@outlook.com>** 
+**(Joe) T. Santhanavanich <thunyathep.s@outlook.com>**
+Contact: **<thunyathep.s@outlook.com>** or ** <thunyathep.santhanavanich@hft-stuttgart.de>**
 
