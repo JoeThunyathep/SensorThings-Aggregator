@@ -32,7 +32,7 @@ http://[host]:[port]/sta_aggregator?url=[sta_observation_url]&timeinterval=[time
 
 ### API doc
 
-[http://thunyatheps.com/sta-agg-doc/](http://thunyatheps.com/sta-agg-doc/)
+**[http://thunyatheps.com/sta-agg-doc/](http://thunyatheps.com/sta-agg-doc/)**
 
 ## Authors
 **(Joe) T. Santhanavanich <thunyathep.s@outlook.com> or <thunyathep.santhanavanich@hft-stuttgart.de>**
